@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Frooity a.k.a Jonea Kristiawan</h1>
+<h1 align="center">Hi 👋, I'm Jonea Kristiawan</h1>
 <h3 align="center">A Student of Computer Science and still learning how to code efficiently</h3>
 
 # 💫 About Me:
